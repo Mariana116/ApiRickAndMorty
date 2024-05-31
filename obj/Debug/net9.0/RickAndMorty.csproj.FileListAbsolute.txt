@@ -1028,3 +1028,4 @@ C:\Users\MARIANA\RickAndMorty\obj\Debug\net9.0\RickAndMorty.dll
 C:\Users\MARIANA\RickAndMorty\obj\Debug\net9.0\refint\RickAndMorty.dll
 C:\Users\MARIANA\RickAndMorty\obj\Debug\net9.0\RickAndMorty.pdb
 C:\Users\MARIANA\RickAndMorty\obj\Debug\net9.0\ref\RickAndMorty.dll
+C:\Users\MARIANA\RickAndMorty\obj\Debug\net9.0\RickAndMorty.sourcelink.json

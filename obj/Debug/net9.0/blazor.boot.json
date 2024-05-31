@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "RickAndMorty",
   "resources": {
-    "hash": "sha256-5s6SiorFNfQUWunIeFgbS0JDqoniDH8Y7ig8OKWBlnw=",
+    "hash": "sha256-0LBsGKpfqfQVqcr3S8dMqR523TFM2pnANdPMuJ+qJng=",
     "jsModuleNative": {
       "dotnet.native.9.0.0-preview.1.24080.9.u4yipvwz0i.js": "sha256-gxKXPutweAuq9I6MCCR3tRRj7dEkHarDTsnwo1ecQNY="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-irYQDMlNkppbY26lsj5FZ7XE8zU4NEb3IovUowOvDmk=",
       "netstandard.wasm": "sha256-X1QfOke3PcWYiLpNL2TRyW4ik28ZzH1Ra+zzirphQdg=",
       "System.Private.CoreLib.wasm": "sha256-25nieGBZNiEyGniJHFy6ZbPNi4CBWalUMf36Kiwqczg=",
-      "RickAndMorty.wasm": "sha256-nmg/1E/KCkzTOAw1K0BNbU5xQjWBAQ3pYiXIbokO4cQ="
+      "RickAndMorty.wasm": "sha256-72R2ywcz9rCwp45f+rAMGODaloh3lYSQerE+FF8E5eQ="
     },
     "pdb": {
-      "RickAndMorty.pdb": "sha256-tl7mEGIXrse8el2EheSCodASomXJOjpWPZ6WeyXbdhs="
+      "RickAndMorty.pdb": "sha256-9ERLkP4nMleQq/+qlDtblcut1cfQZ+4IaE9WUTny7ys="
     }
   },
   "cacheBootResources": true,
