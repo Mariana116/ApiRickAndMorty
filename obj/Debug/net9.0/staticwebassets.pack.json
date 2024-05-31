@@ -1,0 +1,105 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\MARIANA\\RickAndMorty\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\MARIANA\\RickAndMorty\\obj\\Debug\\net9.0\\compressed\\gpwih2wdfk.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\MARIANA\\RickAndMorty\\obj\\Debug\\net9.0\\scopedcss\\bundle\\RickAndMorty.styles.css",
+      "PackagePath": "staticwebassets\\RickAndMorty.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\MARIANA\\RickAndMorty\\wwwroot\\Evil_Morty.jpg",
+      "PackagePath": "staticwebassets\\Evil_Morty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARIANA\\RickAndMorty\\wwwroot\\Evil_Rick.webp",
+      "PackagePath": "staticwebassets\\Evil_Rick.webp"
+    },
+    {
+      "Id": "C:\\Users\\MARIANA\\RickAndMorty\\wwwroot\\Jerry_Smith1.webp",
+      "PackagePath": "staticwebassets\\Jerry_Smith1.webp"
+    },
+    {
+      "Id": "C:\\Users\\MARIANA\\RickAndMorty\\wwwroot\\MortyLagarto.webp",
+      "PackagePath": "staticwebassets\\MortyLagarto.webp"
+    },
+    {
+      "Id": "C:\\Users\\MARIANA\\RickAndMorty\\wwwroot\\RickMorty.png",
+      "PackagePath": "staticwebassets\\RickMorty.png"
+    },
+    {
+      "Id": "C:\\Users\\MARIANA\\RickAndMorty\\wwwroot\\RickPrime.png",
+      "PackagePath": "staticwebassets\\RickPrime.png"
+    },
+    {
+      "Id": "C:\\Users\\MARIANA\\RickAndMorty\\wwwroot\\Ricktiminus_Sancheziminius.webp",
+      "PackagePath": "staticwebassets\\Ricktiminus_Sancheziminius.webp"
+    },
+    {
+      "Id": "C:\\Users\\MARIANA\\RickAndMorty\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\MARIANA\\RickAndMorty\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MARIANA\\RickAndMorty\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MARIANA\\RickAndMorty\\wwwroot\\espacioRM.jpg",
+      "PackagePath": "staticwebassets\\espacioRM.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARIANA\\RickAndMorty\\wwwroot\\familiaSRM.jpg",
+      "PackagePath": "staticwebassets\\familiaSRM.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARIANA\\RickAndMorty\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\MARIANA\\RickAndMorty\\wwwroot\\habitacion.png",
+      "PackagePath": "staticwebassets\\habitacion.png"
+    },
+    {
+      "Id": "C:\\Users\\MARIANA\\RickAndMorty\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\MARIANA\\RickAndMorty\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\MARIANA\\RickAndMorty\\wwwroot\\portalRM.jpg",
+      "PackagePath": "staticwebassets\\portalRM.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARIANA\\RickAndMorty\\wwwroot\\todosRM.jpg",
+      "PackagePath": "staticwebassets\\todosRM.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.RickAndMorty.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.RickAndMorty.props",
+      "PackagePath": "build\\RickAndMorty.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.RickAndMorty.props",
+      "PackagePath": "buildMultiTargeting\\RickAndMorty.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.RickAndMorty.props",
+      "PackagePath": "buildTransitive\\RickAndMorty.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

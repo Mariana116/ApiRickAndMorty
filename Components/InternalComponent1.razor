@@ -1,0 +1,41 @@
+<style>
+    .container1 {
+        position: relative;
+        display: inline-block;
+    }
+
+    .image {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+
+    .text-overlay {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: rgb(255, 255, 255);
+        font-size: 4em;
+        font-weight: bold;
+        text-shadow: 2px 2px 4px rgba(3, 112, 48, 0.5);
+        text-align: center;
+    }
+</style>
+
+<div class="container1">
+    <div class="carousel-item active">
+        <img src="RickMorty.png" class="imagen" style=" width: 1348px; height: 550px;" alt="...">
+        <div class="text-overlay">Informacion del la API Rick And Morty </div>
+    </div>
+</div>
+<div class="container">
+    <br>
+    <p>En esta API cuenta con una URL base que contiene toda la información de los recursos disponibles en la API. Todas son
+    de las peticiones  de tipo GET y las repuestas se devuelven en formato JSON. Actualmente la API cuenta con tres
+    recursos que son personajes, ubicaciones y episodio. La API de la pagina  de las respuestas y reciben hasta 20 documentos por
+    pagina cada respuesta tiene una información que contiene acerca de esta respuesta, como lo son count: La
+    duración de la respuesta, page: La cantidad de páginas, next: enlace a la siguiente página, prev: enlace a la página
+    anterior.</p>
+</div>
+

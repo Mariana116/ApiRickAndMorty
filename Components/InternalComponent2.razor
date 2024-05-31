@@ -1,0 +1,41 @@
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Personajes</th>
+                <th scope="col">Capítulos</th>
+                <th scope="col">Ubicaciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for(int i = 0; i < Personajes.Count; i++)
+            {
+                <tr>
+                    <td>@Personajes[i]</td>
+                    <td>@Capitulos[i]</td>
+                    <td>@Ubicaciones[i]</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+
+<div class="container-fluid bg-white">
+        <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
+            <div class="col-md-4 d-flex align-items-center">
+                <span class="mb-3 mb-md-0 text-body-secondary">&copy; API  Rick And Morty, Inc</span>
+            </div>
+        </footer>
+    </div>
+
+
+@code {
+
+    [Parameter]
+    public List<string> Personajes { get; set; } = new List<string>();
+    [Parameter]
+    public List<string> Capitulos { get; set; } = new List<string>();
+    [Parameter]
+    public List<string> Ubicaciones { get; set; } = new List<string>();
+}
